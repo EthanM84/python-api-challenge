@@ -1,4 +1,4 @@
-# Weather Analysis README
+# Weather Analysis
 
 This repository contains the code and data for a weather analysis project. The goal of this project is to analyze weather data for various cities and visualize key weather parameters.
 
